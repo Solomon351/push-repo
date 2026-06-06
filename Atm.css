@@ -58,7 +58,7 @@ body{
 }
 .card-number{
     display: flex;
-    flex-flow: roe nowrap;
+    flex-flow: nowrap;
     justify-content: center;
     align-items: center;
 }
